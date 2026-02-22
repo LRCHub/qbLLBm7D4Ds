@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "君を誰よりも",
+  "base_artist": "佐久間 龍星",
+  "createdAt": "2026-02-22T04:57:33.937704Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "君を誰よりも",
+      "artist": "佐久間龍星",
+      "has_synced": false,
+      "path": "select/pl_01_君を誰よりも_佐久間龍星.txt"
+    }
+  ]
+}
